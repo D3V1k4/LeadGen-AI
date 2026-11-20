@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="assets/leadgen-ai-banner.png" alt="LeadGen AI Banner" width="100%">
-
 # LeadGen AI
 
 ### AI-Powered Lead Management & Customer Engagement System
